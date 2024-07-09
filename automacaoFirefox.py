@@ -11,7 +11,7 @@ servico = Service(GeckoDriverManager().install()) # Identificar a versão do nav
 navegador = webdriver.Firefox(service=servico) # Configurar o navegador para usar a versão do GeckoDriver
 navegador.get("https://sige.seduc.ce.gov.br/") # Abrir em um site específico
 
-
 # Encontrar qualquer elemento dentro da página (Todo elemento de um site tem um xpath por trás dele)
 navegador.find_element('xpath','/html/body/div/div/div[2]/div/div/div[1]/div[1]/div/a/div').click() # Clicar no Botão "ACADEMICO"
 
+# Teste de atualização
