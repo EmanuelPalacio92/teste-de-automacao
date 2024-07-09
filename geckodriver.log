@@ -1,0 +1,252 @@
+1720451079117	geckodriver	INFO	Listening on 127.0.0.1:50607
+1720451082149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50608" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pc\\AppData\\Local\\Temp\\rust_mozprofileb7z8JE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1720451082785	Marionette	INFO	Marionette enabled
+1720451084397	Marionette	INFO	Listening on port 50617
+WebDriver BiDi listening on ws://127.0.0.1:50608
+Read port: 50617
+1720451085116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50608/devtools/browser/596b66b7-64ad-4e8d-8cfc-2024bd89f57f
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+1720451114449	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://censobasico.inep.gov.br/ruxitagentjs_ICA7NVfghqrux_10293240614115956.js, line 8: Script terminated by timeout at:
+Sa@https://censobasico.inep.gov.br/ruxitagentjs_ICA7NVfghqrux_10293240614115956.js:8:251
+Wa@https://censobasico.inep.gov.br/ruxitagentjs_ICA7NVfghqrux_10293240614115956.js:9:89
+ud@https://censobasico.inep.gov.br/ruxitagentjs_ICA7NVfghqrux_10293240614115956.js:36:226
+qa@https://censobasico.inep.gov.br/ruxitagentjs_ICA7NVfghqrux_10293240614115956.js:92:454
+oi@https://censobasico.inep.gov.br/ruxitagentjs_ICA7NVfghqrux_10293240614115956.js:167:103
+
+1720451125525	Marionette	INFO	Stopped listening on port 50617
+Dynamically enable window occlusion 1
+1720451198038	geckodriver	INFO	Listening on 127.0.0.1:50720
+1720451201096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pc\\AppData\\Local\\Temp\\rust_mozprofileHzGYFQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1720451201465	Marionette	INFO	Marionette enabled
+1720451202533	Marionette	INFO	Listening on port 50728
+WebDriver BiDi listening on ws://127.0.0.1:50721
+Read port: 50728
+1720451203310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50721/devtools/browser/bd5cb36e-686b-4c16-bfa6-a6ed30aaa527
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+1720451233696	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-7QHM0TJ7ZR, line 174: Script terminated by timeout at:
+Bb@https://www.googletagmanager.com/gtag/js?id=G-7QHM0TJ7ZR:174:128
+um@https://www.googletagmanager.com/gtag/js?id=G-7QHM0TJ7ZR:340:433
+ln@https://www.googletagmanager.com/gtag/js?id=G-7QHM0TJ7ZR:348:741
+sH/<@https://www.googletagmanager.com/gtag/js?id=G-7QHM0TJ7ZR:628:178
+ca.Hk/<@https://www.googletagmanager.com/gtag/js?id=G-7QHM0TJ7ZR:571:126
+ca.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-7QHM0TJ7ZR:570:420
+
+1720451944785	Marionette	INFO	Stopped listening on port 50728
+Dynamically enable window occlusion 1
+1720452271246	geckodriver	INFO	Listening on 127.0.0.1:50882
+1720452274303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pc\\AppData\\Local\\Temp\\rust_mozprofilen0dz06"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1720452274834	Marionette	INFO	Marionette enabled
+1720452276014	Marionette	INFO	Listening on port 50890
+WebDriver BiDi listening on ws://127.0.0.1:50883
+Read port: 50890
+1720452276606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50883/devtools/browser/6fbf45b9-a53e-46e9-a086-5293c9f26a07
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+1720452304870	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-7QHM0TJ7ZR, line 349: Script terminated by timeout at:
+rn@https://www.googletagmanager.com/gtag/js?id=G-7QHM0TJ7ZR:349:183
+sn.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-7QHM0TJ7ZR:351:359
+ln@https://www.googletagmanager.com/gtag/js?id=G-7QHM0TJ7ZR:348:764
+sH/<@https://www.googletagmanager.com/gtag/js?id=G-7QHM0TJ7ZR:628:178
+ca.Hk/<@https://www.googletagmanager.com/gtag/js?id=G-7QHM0TJ7ZR:571:126
+ca.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-7QHM0TJ7ZR:570:420
+
+1720452544649	Marionette	INFO	Stopped listening on port 50890
+Dynamically enable window occlusion 1
+1720452583274	geckodriver	INFO	Listening on 127.0.0.1:50996
+1720452586309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pc\\AppData\\Local\\Temp\\rust_mozprofileZ1nL0U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1720452586918	Marionette	INFO	Marionette enabled
+1720452588165	Marionette	INFO	Listening on port 51004
+WebDriver BiDi listening on ws://127.0.0.1:50997
+Read port: 51004
+1720452588865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50997/devtools/browser/4dca53a3-4478-4495-98e7-c07c481829f3
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+1720452617421	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1720452826941	Marionette	INFO	Stopped listening on port 51004
+Dynamically enable window occlusion 1
+1720452835438	geckodriver	INFO	Listening on 127.0.0.1:51088
+1720452838493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pc\\AppData\\Local\\Temp\\rust_mozprofilerSXWav"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1720452839073	Marionette	INFO	Marionette enabled
+1720452840524	Marionette	INFO	Listening on port 51096
+WebDriver BiDi listening on ws://127.0.0.1:51089
+Read port: 51096
+1720452841206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51089/devtools/browser/6345b8c7-9981-4ea2-a7d2-2fe2ef1a8163
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+1720452869124	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1, line 330: Script terminated by timeout at:
+W@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:330:9
+ca.xm@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:591:24
+c@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:606:784
+tn@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:335:1
+sn.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:337:278
+sn.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:335:395
+ln@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:332:764
+sH/<@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:607:178
+ca.Hk/<@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:550:126
+ca.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:549:420
+
+1720452932690	Marionette	INFO	Stopped listening on port 51096
+Dynamically enable window occlusion 1
+1720452940197	geckodriver	INFO	Listening on 127.0.0.1:51160
+1720452943254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pc\\AppData\\Local\\Temp\\rust_mozprofiletYQnG0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1720452943604	Marionette	INFO	Marionette enabled
+1720452944569	Marionette	INFO	Listening on port 51168
+WebDriver BiDi listening on ws://127.0.0.1:51161
+Read port: 51168
+1720452945232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51161/devtools/browser/9232da62-ca3c-4605-8b33-64954fba3c93
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+1720452976730	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1, line 151: Script terminated by timeout at:
+Va@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:151:124
+h@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:152:36
+tn@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:333:385
+sn.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:337:278
+sn.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:335:395
+ln@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:332:764
+sH/<@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:607:178
+ca.Hk/<@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:550:126
+ca.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:549:420
+
+1720453042610	Marionette	INFO	Stopped listening on port 51168
+Dynamically enable window occlusion 1
+1720453189004	geckodriver	INFO	Listening on 127.0.0.1:51239
+1720453192068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51240" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pc\\AppData\\Local\\Temp\\rust_mozprofileGOl5XF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1720453192480	Marionette	INFO	Marionette enabled
+1720453193754	Marionette	INFO	Listening on port 51247
+WebDriver BiDi listening on ws://127.0.0.1:51240
+Read port: 51247
+1720453194429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51240/devtools/browser/16c8263b-6691-405d-b219-a949cc4ce1a0
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+1720453222826	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1, line 550: Script terminated by timeout at:
+ca.qh@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:550:491
+get@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:549:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:549:87
+ca.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:549:412
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1720453265354	Marionette	INFO	Stopped listening on port 51247
+Dynamically enable window occlusion 1
+1720453269085	geckodriver	INFO	Listening on 127.0.0.1:51308
+1720453272156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pc\\AppData\\Local\\Temp\\rust_mozprofilekKxZwa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1720453272582	Marionette	INFO	Marionette enabled
+1720453274146	Marionette	INFO	Listening on port 51316
+WebDriver BiDi listening on ws://127.0.0.1:51309
+Read port: 51316
+1720453274903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51309/devtools/browser/40822976-60ba-41d3-b035-bb9b795c48ca
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+1720453302692	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+20453372718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pc\\AppData\\Local\\Temp\\rust_mozprofileIIOGq8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1720453373129	Marionette	INFO	Marionette enabled
+1720453374420	Marionette	INFO	Listening on port 51389
+WebDriver BiDi listening on ws://127.0.0.1:51381
+Read port: 51389
+1720453375212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51381/devtools/browser/510a3dc3-bf09-4332-a080-fbc06ff95914
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1, line 550: Script terminated by timeout at:
+ca.qh@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:550:491
+get@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:549:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:549:87
+ca.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:549:412
+
+1720453393529	Marionette	INFO	Stopped listening on port 51389
+Dynamically enable window occlusion 1
+1720453479986	geckodriver	INFO	Listening on 127.0.0.1:51439
+1720453483012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51440" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pc\\AppData\\Local\\Temp\\rust_mozprofiledLhDyL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1720453483554	Marionette	INFO	Marionette enabled
+1720453484880	Marionette	INFO	Listening on port 51448
+Read port: 51448
+WebDriver BiDi listening on ws://127.0.0.1:51440
+1720453485598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51440/devtools/browser/d770b7a5-542b-4540-9ab9-f828740bba75
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+1720453513620	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sige.seduc.ce.gov.br."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1, line 551: Script terminated by timeout at:
+ca.qh@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:551:30
+get@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:549:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:549:87
+ca.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&cx=c&_slc=1:549:412
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+am Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51583" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pc\\AppData\\Local\\Temp\\rust_mozprofileyPa1bZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1720453712685	Marionette	INFO	Marionette enabled
+1720453714095	Marionette	INFO	Listening on port 51590
+WebDriver BiDi listening on ws://127.0.0.1:51583
+Read port: 51590
+1720453714908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51583/devtools/browser/3496c11d-56bc-4f7d-bb7a-8cb6acae22c8
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+1720453742876	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
