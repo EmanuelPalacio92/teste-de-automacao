@@ -1,0 +1,5 @@
+import pyautogui
+
+pyautogui.keyDown('alt') # Segurar a tecla ALT
+pyautogui.press('tab') # Precionar a tecla TAB
+pyautogui.keyUp('alt') # Soltar a tecla ALT
