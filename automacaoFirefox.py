@@ -5,6 +5,7 @@
 
 login = input("Digite seu usuário ")
 senha = input("Digite sua senha ")
+escola = input("Digite o INEP da escola  ")
 
 # Importar o pyautogui
 import pyautogui
@@ -15,18 +16,14 @@ from webdriver_manager.firefox import GeckoDriverManager # Importar a biblioteca
 from selenium.webdriver.firefox.service import Service # Executar navegador através do Drive Manager
 # !!! Sempre que for utilizar uma automação com o Selenium, o código acima será exatamente o mesmo !!!
 
-
-
 servico = Service(GeckoDriverManager().install()) # Identificar a versão do navegador atual e instalar o GeckoDrive correspondente a versão atual
 navegador = webdriver.Firefox(service=servico) # Configurar o navegador para usar a versão do GeckoDriver
 navegador.get("https://sige.seduc.ce.gov.br/") # Abrir em um site específico
-
 
 time.sleep(2)
 pyautogui.press('tab') # Apertar a tecla TAB
 pyautogui.press('tab') # Apertar a tecla TAB
 pyautogui.press('enter') # Apertar a tecla ENTER
-
 
 time.sleep(2)
 pyautogui.keyDown('shift')
@@ -39,12 +36,15 @@ pyautogui.write(senha)
 pyautogui.press('enter')
 
 time.sleep(3)
-pyautogui.press(['tab','tab','tab','tab','tab','tab','tab',])
+tab = 0
+while (tab < 7):
+    pyautogui.press('tab')
+    tab += 1
 pyautogui.press('enter')
 
 time.sleep(3)
 pyautogui.press(['tab','tab'])
-pyautogui.write('23250976')
+pyautogui.write(escola)
 pyautogui.press(['down','enter','tab','enter'])
 
 

@@ -671,3 +671,61 @@ add/handle<@https://sige.seduc.ce.gov.br/js/jquery-tooltip/js/jquery.js:1846:31
 
 1720611853506	Marionette	INFO	Stopped listening on port 50601
 Dynamically enable window occlusion 1
+1720612919033	geckodriver	INFO	Listening on 127.0.0.1:51013
+1720612922570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51014" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pc\\AppData\\Local\\Temp\\rust_mozprofile6fgAi3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1720612927932	Marionette	INFO	Marionette enabled
+1720612930372	Marionette	INFO	Listening on port 51022
+Read port: 51022
+WebDriver BiDi listening on ws://127.0.0.1:51014
+1720612932064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51014/devtools/browser/d2c73804-9168-4650-bbb3-efd5e28aae9d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sige.seduc.ce.gov.br."
+1720612954570	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1720612958033	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sige.seduc.ce.gov.br."
+1720612968005	Marionette	INFO	Stopped listening on port 51022
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1720613019805	geckodriver	INFO	Listening on 127.0.0.1:51086
+1720613022797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pc\\AppData\\Local\\Temp\\rust_mozprofileRoamYx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1720613023740	Marionette	INFO	Marionette enabled
+1720613025472	Marionette	INFO	Listening on port 51094
+WebDriver BiDi listening on ws://127.0.0.1:51087
+Read port: 51094
+1720613026048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51087/devtools/browser/f8fe7636-cf2b-4b22-b2ac-f49d21c0afdc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sige.seduc.ce.gov.br."
+1720613039581	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sige.seduc.ce.gov.br."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c, line 148: Script terminated by timeout at:
+Ra@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:148:1005
+cb@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:155:107
+f@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:178:278
+fd@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:180:79
+aI/<@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:606:499
+cs@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:425:231
+ca.ym@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:586:278
+ca.xm/</<@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:584:104
+dm@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:320:405
+om@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:323:432
+ca.xm/<@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:584:90
+c@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:441:169
+Rt@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:442:269
+ca.xm@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:584:76
+c@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:599:784
+tn@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:335:1
+sn.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:337:278
+sn.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:335:395
+ln@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:332:764
+sH/<@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:600:178
+ca.Hk/<@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:543:126
+ca.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-QFP1NY764Q&l=dataLayer&cx=c:542:420
+
+1720613050394	Marionette	INFO	Stopped listening on port 51094
+Dynamically enable window occlusion 1
